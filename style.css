@@ -1,0 +1,17 @@
+body {
+  background: #fff;
+  text-align: center;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-size: 130%;
+}
+div {
+  margin-top: 25vh;
+}
+a:link, a:visited {
+  color: #000;
+  text-decoration: none;
+  border-bottom: 2px dashed;
+}
+a:hover, a:active, a:focus {
+  border-bottom: dotted;
+}
