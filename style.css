@@ -4,7 +4,8 @@ html, body {
   overflow: hidden;
 }
 body {
-  background: #fff;
+  background: #000;
+  color: #fff;
   text-align: center;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
   font-size: 130%;
