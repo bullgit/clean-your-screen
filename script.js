@@ -1,6 +1,6 @@
 function fullscreen() {
 
-  var element = document.getElementsByTagName("body")[0];
+  var element = document.body;
 
   if (element.requestFullScreen) {
 
